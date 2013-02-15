@@ -83,9 +83,6 @@
 		8063BAC616CE7A9500330C50 /* GestureDemonstration */ = {
 			isa = PBXGroup;
 			children = (
-				8063BACF16CE7A9500330C50 /* GDAppDelegate.h */,
-				8063BAD016CE7A9500330C50 /* GDAppDelegate.m */,
-				8063BAD816CE7A9500330C50 /* MainStoryboard.storyboard */,
 				8063BADB16CE7A9500330C50 /* GDViewController.h */,
 				8063BADC16CE7A9500330C50 /* GDViewController.m */,
 				8063BAC716CE7A9500330C50 /* Supporting Files */,
@@ -96,6 +93,9 @@
 		8063BAC716CE7A9500330C50 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				8063BACF16CE7A9500330C50 /* GDAppDelegate.h */,
+				8063BAD016CE7A9500330C50 /* GDAppDelegate.m */,
+				8063BAD816CE7A9500330C50 /* MainStoryboard.storyboard */,
 				8063BAC816CE7A9500330C50 /* GestureDemonstration-Info.plist */,
 				8063BAC916CE7A9500330C50 /* InfoPlist.strings */,
 				8063BACC16CE7A9500330C50 /* main.m */,
